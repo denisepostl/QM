@@ -1,0 +1,54 @@
+{
+    "Produktinformationen": {
+        "Produktname": "HP ENVY Notebook",
+        "Produktcode": "12383811",
+        "Beschreibung": "Notebook.",
+        "Herstellungsdatum": "19.12.2020"
+    },
+    "Qualitätsprüfungen": {
+        "DurchgeführtePrüfungen": [
+            {
+                "Prüfdatum": "12.02.2022",
+                "Prüfername": "Max Mustermann",
+                "Ergebnisse": "Bestanden",
+                "Anmerkungen": "Keine"
+            },
+            {
+                "Prüfdatum": "13.03.2023",
+                "Prüfername": "Max Mustermann",
+                "Ergebnisse": "Bestanden",
+                "Anmerkungen": "Keine"
+            }
+        ]
+    },
+    "HistorischeDaten": {
+        "Prüfungen": {
+            "Einzelprüfungen": [
+                {
+                    "Prüfung 1": {
+                        "Produktname": "HP ENVY Notebook",
+                        "Produktcode": "12383811",
+                        "Beschreibung": "Notebook.",
+                        "Herstellungsdatum": "19.12.2020",
+                        "Prüfdatum": "01.01.2021",
+                        "Prüfername": "Anna Beispiel",
+                        "Ergebnisse": "Nicht bestanden",
+                        "Anmerkungen": "Defekte Hardware"
+                    }
+                },
+                {
+                    "Prüfung 2": {
+                        "Produktname": "HP ENVY Notebook",
+                        "Produktcode": "12383811",
+                        "Beschreibung": "Notebook.",
+                        "Herstellungsdatum": "19.12.2020",
+                        "Prüfdatum": "05.05.2022",
+                        "Prüfername": "Peter Muster",
+                        "Ergebnisse": "Bestanden",
+                        "Anmerkungen": "Keine"
+                    }
+                }
+            ]
+        }
+    }
+}
